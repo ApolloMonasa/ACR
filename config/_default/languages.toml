@@ -1,0 +1,31 @@
+[en]
+    languageName = "English"
+    title        = "Algorithm Contest Record"
+    weight       = 1
+
+    [en.params.sidebar]
+        subtitle = "Solutions and notes for Codeforces and AtCoder contests"
+
+[zh]
+    languageName = "简体中文"
+    title        = "Algorithm Contest Record"
+    weight       = 2
+
+    [zh.params.sidebar]
+        subtitle = "记录 Codeforces 与 AtCoder 比赛题解与复盘"
+
+[zh-hant-tw]
+    languageName = "正體中文"
+    title        = "Algorithm Contest Record"
+    weight       = 3
+
+    [zh-hant-tw.params.sidebar]
+        subtitle = "記錄 Codeforces 與 AtCoder 比賽題解與復盤"
+
+[ja]
+    languageName = "日本語"
+    title        = "Algorithm Contest Record"
+    weight       = 4
+
+    [ja.params.sidebar]
+        subtitle = "Codeforces と AtCoder のコンテスト解説と振り返り"

@@ -1,0 +1,4 @@
+---
+title: カテゴリー
+slug: categories
+---

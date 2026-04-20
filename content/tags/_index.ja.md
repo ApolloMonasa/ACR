@@ -1,0 +1,4 @@
+---
+title: タグ
+slug: tags
+---

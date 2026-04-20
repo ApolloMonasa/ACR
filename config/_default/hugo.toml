@@ -1,0 +1,20 @@
+baseURL                = "/"
+languageCode           = "zh-cn"
+title                  = "Algorithm Contest Record"
+# Theme i18n support
+# See i18n folder for available languages
+defaultContentLanguage = "zh"
+# Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
+# This will make .Summary and .WordCount behave correctly
+hasCJKLanguage         = true
+
+[[module.imports]]
+    path = "github.com/CaiJimmy/hugo-theme-stack/v4"
+
+[pagination]
+    pagerSize = 5
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
+
