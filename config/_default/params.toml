@@ -30,6 +30,7 @@ favicon        = "img/avatar.png"
     provider = "utterances"
 
     [comments.utterances]
+        # 若你 fork 本仓库，请改成你自己的 "<owner>/<repo>"
         repo      = "ApolloMonasa/ACR"
         issueTerm = "pathname"
 
