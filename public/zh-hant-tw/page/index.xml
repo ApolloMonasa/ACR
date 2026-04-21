@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Algorithm Contest Record</title>
-        <link>//localhost:45739/zh-hant-tw/page/</link>
+        <link>//localhost:1313/zh-hant-tw/page/</link>
         <description>Recent content in Pages on Algorithm Contest Record</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-hant-tw</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:45739/zh-hant-tw/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/zh-hant-tw/page/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>關於</title>
+            <link>//localhost:1313/zh-hant-tw/%E9%97%9C%E6%96%BC/</link>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>//localhost:1313/zh-hant-tw/%E9%97%9C%E6%96%BC/</guid>
+            <description>&lt;p&gt;Algorithm Contest Record（ACR）是我的演算法競賽題解站。&lt;/p&gt;&#xA;&lt;p&gt;本站主要記錄：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Codeforces 比賽題解與賽後復盤&lt;/li&gt;&#xA;&lt;li&gt;AtCoder 比賽題解與思路整理&lt;/li&gt;&#xA;&lt;li&gt;常見套路總結（構造、貪心、DP、圖論、資料結構等）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;站點目標&#34;&gt;站點目標&#xA;&lt;/h2&gt;&lt;p&gt;希望把每場比賽的關鍵思路沉澱下來，形成可持續複習的題解記錄庫。&lt;/p&gt;&#xA;&lt;h2 id=&#34;說明&#34;&gt;說明&#xA;&lt;/h2&gt;&lt;p&gt;本站內容會持續更新，歡迎交流與指正。&lt;/p&gt;&#xA;</description>
+        </item><item>
             <title>歸檔</title>
-            <link>//localhost:45739/zh-hant-tw/archives/</link>
+            <link>//localhost:1313/zh-hant-tw/archives/</link>
             <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-            <guid>//localhost:45739/zh-hant-tw/archives/</guid>
+            <guid>//localhost:1313/zh-hant-tw/archives/</guid>
             <description></description>
         </item><item>
             <title>搜索</title>
-            <link>//localhost:45739/zh-hant-tw/search/</link>
+            <link>//localhost:1313/zh-hant-tw/search/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>//localhost:45739/zh-hant-tw/search/</guid>
+            <guid>//localhost:1313/zh-hant-tw/search/</guid>
             <description></description>
         </item></channel>
 </rss>

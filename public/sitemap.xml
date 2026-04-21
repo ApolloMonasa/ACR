@@ -2,28 +2,28 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>//localhost:45739/en/sitemap.xml</loc>
+    <loc>//localhost:1313/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:45739/zh/sitemap.xml</loc>
+    <loc>//localhost:1313/zh/sitemap.xml</loc>
     
-      <lastmod>2026-04-21T00:32:04+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>//localhost:45739/zh-hant-tw/sitemap.xml</loc>
-    
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2026-04-21T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>//localhost:45739/ja/sitemap.xml</loc>
+    <loc>//localhost:1313/zh-hant-tw/sitemap.xml</loc>
     
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>//localhost:1313/ja/sitemap.xml</loc>
+    
+      <lastmod>2026-04-21T00:00:00+00:00</lastmod>
     
   </sitemap>
   
