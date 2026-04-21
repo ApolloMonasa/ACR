@@ -26,7 +26,12 @@ favicon        = "img/avatar.png"
 
 [comments]
     # See complete configuration in config/_default/params.toml
-    enabled  = false
+    enabled  = true
+    provider = "utterances"
+
+    [comments.utterances]
+        repo      = "ApolloMonasa/ACR"
+        issueTerm = "pathname"
 
 # GDPR Cookie Consent Configuration
 # When enabled, analytics and functional cookies require user consent

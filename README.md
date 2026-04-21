@@ -37,3 +37,13 @@ hugo server -D
 部署地址通常为：
 
 - `https://<your-username>.github.io/<repo-name>/`
+
+## 评论系统（GitHub App）
+
+站点已启用 `utterances`（基于 GitHub Issues 的评论系统）。
+
+使用前请确认：
+
+1. 访问并安装 GitHub App：`https://github.com/apps/utterances`
+2. 给 `ApolloMonasa/ACR` 仓库授权该 App
+3. 确保仓库开启 Issues（Settings -> Features -> Issues）
