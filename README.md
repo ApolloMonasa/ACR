@@ -44,6 +44,7 @@ hugo server -D
 
 使用前请确认：
 
-1. 访问并安装 GitHub App：`https://github.com/apps/utterances`
+1. 访问并安装 GitHub App：[https://github.com/apps/utterances](https://github.com/apps/utterances)
 2. 给 `ApolloMonasa/ACR` 仓库授权该 App
 3. 确保仓库开启 Issues（Settings -> Features -> Issues）
+4. 若你是 fork 本仓库，请同步修改 `config/_default/params.toml` 里的 `comments.utterances.repo`
