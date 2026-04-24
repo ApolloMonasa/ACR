@@ -5,7 +5,13 @@
         <description>Recent content in 分类 on Algorithm Contest Record</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 21 Apr 2026 00:32:04 +0800</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 23 Apr 2026 23:29:35 +0800</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Codeforces</title>
+            <link>//localhost:1313/categories/codeforces/</link>
+            <pubDate>Thu, 23 Apr 2026 23:29:35 +0800</pubDate>
+            <guid>//localhost:1313/categories/codeforces/</guid>
+            <description></description>
+        </item><item>
             <title>AtCoder</title>
             <link>//localhost:1313/categories/atcoder/</link>
             <pubDate>Tue, 21 Apr 2026 00:32:04 +0800</pubDate>

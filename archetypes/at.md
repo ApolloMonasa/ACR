@@ -13,14 +13,6 @@ rank = ""
 penalty = ""
 +++
 
-## Contest Info
-
-- Mode: LIVE / VP
-- Date:
-- Rank:
-- Penalty:
-- Performance:
-
 ## Problem Summary
 
 - A:
